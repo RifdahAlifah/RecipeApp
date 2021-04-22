@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="hello">Hello Rifdah</string>
+    <string name="popular_recipes">Popular Recipes</string>
+    <string name="popular">Popular</string>
+    <string name="home">Home</string>
+    <string name="western">Western</string>
+    <string name="dessert">Dessert</string>
+    <string name="drinks">Drinks</string>
+    <string name="text_password">Password</string>
+    <string name="text_name">Name</string>
+    <string name="text_sign_in_continue">Sign in continue</string>
+    <string name="text_new_member">New Member?</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_sign_up">Sign up</string>
+    <string name="not_empty">Not empty</string>
+    <string name="imageview">imageView</string>
+    <string name="text_make">Make Your own food,</string>
+    <string name="text_stay">stay at</string>
+    <string name="text_welcome">Welcome,</string>
+    <string name="text_sign_in">Sign in</string>
+</resources>
